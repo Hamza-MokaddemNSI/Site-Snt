@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Times New Roman', Times, serif;
+    color: purple;
+}
+
+p {
+    font-family: 'Trebuchet MS', 'Times New Roman', Times, serif;
+    color: red;
+}
+
+.Header2 {
+    color: rgb(0, 0, 0);
+    font-family: 'Trebuchet MS', 'Times New Roman', Times, serif;
+    font-weight: 900;
+}
+
+.image-class {
+    border: 4px solid #1b6b6f;
+    padding: 15px;
+}
